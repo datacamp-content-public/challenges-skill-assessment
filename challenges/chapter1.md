@@ -11,7 +11,7 @@ key: 167A4VcDii9Ku
 ```
 
 `@assignment1`
-Which symbol marks the beginning of a comment in R?
+Which symbol marks the beginning of a comment in RR?
 
 `@assignment2`
 Which of the following is the recommended method of assigning a value to a variable?
